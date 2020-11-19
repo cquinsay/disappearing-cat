@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: inline-flex;
+    flex-direction: column;
+    padding: 30px;
+}
+img{
+    margin: 5px;
+    align-self: center;
+}
